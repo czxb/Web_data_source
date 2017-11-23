@@ -12,3 +12,7 @@ use "https://github.com/ZhenxingCheng/Chen_Qiang_DataSets/raw/master/ldw_exper.d
 ```
 
 * 欢迎大家访问我的网站[Mr.Cheng's Studio](http://www.czxa.top)
+
+### github文件下载
+* 为了更加方便的使用Github网站和从Github上下载文件，下载一些插件是非常有必要的，具体可以参考简书上的这篇文章。
+[那些你不能错过的 GitHub 插件和工具](http://www.jianshu.com/p/80a8f0bdd511)
